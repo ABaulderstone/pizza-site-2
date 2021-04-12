@@ -54,7 +54,7 @@
 
 @media only screen and (min-width: 800px) {
   .hero-image h1, .hero-image h2 {
-    color: red;
+    color: #4400ff;
   }
   .hero-image h1 {
     font-size: 10rem;
